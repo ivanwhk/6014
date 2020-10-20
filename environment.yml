@@ -1,0 +1,10 @@
+name: 6014
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - plotly
+  - Basemap
+  - numpy 
+  - pandas
+  - networkx
